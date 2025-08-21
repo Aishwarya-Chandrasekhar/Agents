@@ -5,7 +5,7 @@ A tiny agent loop that can:
 * Call that tool with structured arguments (validated with Pydantic)
 * Observe the result and answer the user
 
-![demo](hello_tools_agent.gif)
+![demo](hello_tools.gif)
 
 Tiny, inspectable agent loop (plan → tool → observe → answer) with two tools:
 - `calculator(expr)`: safe, math-only eval (Python `math`)
