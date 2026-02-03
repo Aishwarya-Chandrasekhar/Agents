@@ -1,0 +1,4 @@
+Agents are systems that can observe, decide, and act.
+RAG stands for Retrieval Augmented Generation.
+Vector databases store embeddings for fast similarity search.
+Memory allows agents to remember past interactions.

@@ -1,0 +1,10 @@
+Ask a research question,Retrieved answer,flag,username,timestamp
+what is a RAG?,"RAG stands for Retrieval Augmented Generation.
+Memory allows agents to remember past interactions.
+Vector databases store embeddings for fast similarity search.",,,2026-02-03 23:30:58.231592
+What is RAG?,"RAG stands for Retrieval Augmented Generation.
+Memory allows agents to remember past interactions.
+Vector databases store embeddings for fast similarity search.",,,2026-02-04 00:04:04.211144
+What is similarity search?,"Vector databases store embeddings for fast similarity search.
+RAG stands for Retrieval Augmented Generation.
+Memory allows agents to remember past interactions.",,,2026-02-04 00:04:14.462380
