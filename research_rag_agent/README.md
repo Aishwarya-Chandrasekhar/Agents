@@ -57,7 +57,8 @@ A command-line interface where you can ask questions and see the agent retrieve 
 - No hallucinated answers
 - Clear, readable output
 
-📸  ![Terminal Demo](terminal_demo.png)
+📸  
+![Terminal Demo](terminal_demo.png)
 
 
 ---
