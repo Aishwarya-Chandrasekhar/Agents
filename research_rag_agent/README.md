@@ -57,7 +57,7 @@ A command-line interface where you can ask questions and see the agent retrieve 
 - No hallucinated answers
 - Clear, readable output
 
-📸 _See ![Terminal Demo](terminal_demo.png)
+📸  ![Terminal Demo](terminal_demo.png)
 
 
 ---
@@ -71,7 +71,7 @@ A simple web interface built with Gradio that lets you interact with the agent i
 - User-friendly interface
 - Real-time retrieval results
 
-📸 _See ![Browser Demo](browser_demo.gif)
+📸  ![Browser Demo](browser_demo.gif)
 
 ---
 
