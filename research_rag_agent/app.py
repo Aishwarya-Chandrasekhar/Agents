@@ -1,7 +1,5 @@
 import warnings
 warnings.filterwarnings("ignore")
-
-
 import gradio as gr
 from agent import ask_agent
 
