@@ -1,6 +1,0 @@
-ddgs
-httpx[http2]
-beautifulsoup4
-pydantic
-rich
-typer
