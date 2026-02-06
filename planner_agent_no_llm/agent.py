@@ -5,7 +5,7 @@ from tools.calculator import calculate
 from tools.retriever import RetrieverTool
 from tools.web import fetch_text
 
-retriever = RetrieverTool(docs_folder="../research_rag_agent/sample_docs")
+retriever = RetrieverTool(docs_folder="../sample_docs")
 
 def run(question: str) -> str:
     p = plan(question)

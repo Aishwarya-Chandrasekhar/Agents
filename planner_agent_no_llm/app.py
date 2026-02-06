@@ -19,7 +19,7 @@ from tools.retriever import RetrieverTool
 from tools.web import fetch_text
 
 # Initialize once so the FAISS index + embeddings load a single time
-retriever = RetrieverTool(docs_folder="../research_rag_agent/sample_docs")
+retriever = RetrieverTool(docs_folder="../sample_docs")
 
 
 def run_agent(question: str):
