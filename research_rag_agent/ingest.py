@@ -1,6 +1,6 @@
 import os
 
-def load_documents(folder="sample_docs"):
+def load_documents(folder="../sample_docs"):
     docs = []
     for file in os.listdir(folder):
         with open(os.path.join(folder, file)) as f:
