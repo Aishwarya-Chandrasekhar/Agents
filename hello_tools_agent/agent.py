@@ -10,7 +10,6 @@ warnings.filterwarnings(
     module="duckduckgo_search"
 )
 
-warnings.filterwarnings("ignore", category=NotOpenSSLWarning)
 
 import json
 from typing import List, Dict, Any
