@@ -1,4 +1,4 @@
-# 🤖 Day 3 — Planner Agent (No LLM)
+# 🤖 Part 3 — Planner Agent (No LLM)
 
 A deterministic **tool-routing AI agent** that demonstrates how agents decide *which tool to use* before acting.
 
